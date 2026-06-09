@@ -1,57 +1,56 @@
 
 image::2025_spring/conclusion/00_Thank_You.png[link=self, window=blank, width=100%]
 
-We hope you have enjoyed {lab_name} and learning more about *OpenShift Virtualization* and how it can be a useful tool for both the import and management of legacy virtual machines, as well as a stepping stone on the path of application modernization.
+{lab_name} をお楽しみいただけたこと、そして *OpenShift Virtualization* について、レガシー仮想マシンのインポートと管理の両方に有用なツールであること、およびアプリケーションのモダナイゼーションへの道筋上の足がかりとなり得ることを学んでいただけたことを願っています。
 
 [key_takeaways]
-== Key Takeaways
+== 重要なポイント
 
-* OpenShift Virtualization is solution oriented, providing you with a mature, stable, and scalable solution that's easy to get started with.
+* OpenShift Virtualization はソリューション指向であり、成熟した安定したスケーラブルなソリューションを提供し、簡単に始められます。
 
-* OpenShift Virtualization is available at every subscription level of Red Hat OpenShift from OpenShift Platform Plus which provides a full hybrid cloud application development platform, to OpenShift Virtualization Engine, an offering that specializes in providing support for virtualized workloads.
+* OpenShift Virtualization は、完全なハイブリッドクラウドアプリケーション開発プラットフォームを提供する OpenShift Platform Plus から、仮想化ワークロードのサポートに特化した OpenShift Virtualization Engine まで、Red Hat OpenShift のすべてのサブスクリプションレベルで利用できます。
 
-* OpenShift Virtualization is fully integrated with a broad ecosystem of partner products, with more coming on board each day. Check with your preferred hardware and software vendors to see if they support OpenShift Virtualization.
+* OpenShift Virtualization は、幅広いパートナープロダクトのエコシステムと完全に統合されており、日々新しい製品が追加されています。OpenShift Virtualization をサポートしているか、ご希望のハードウェアおよびソフトウェアベンダーにご確認ください。
 
-* OpenShift Virtualization can help you set a strong foundation for tradtional workloads, while building skills for the future with a modern application platform.
+* OpenShift Virtualization は、従来のワークロードの強固な基盤を築きながら、モダンなアプリケーションプラットフォームで将来に向けたスキルを構築するのに役立ちます。
 
 
 [additional_info]
-== Additonal Information
+== 追加情報
 
-=== Free Ebook: 15 Reasons to Adopt Red Hat OpenShift Virtualization
+=== 無料 Ebook: 15 Reasons to Adopt Red Hat OpenShift Virtualization
 
-* Discover how virtualization infrastruture continues to evolve.
-* Explore options for migration of your existing virtual machines.
-* Take advantage of a large number of benefits across your organization.
-* Learn about deploying a consistent foundation for innovation.
-* Learn how to get started through no cost demonstrations or a Virtual Migration Assessment.
+* 仮想化インフラストラクチャがどのように進化し続けているかを発見します。
+* 既存の仮想マシンの移行オプションを探ります。
+* 組織全体で多数のメリットを活用します。
+* イノベーションのための一貫した基盤のデプロイについて学びます。
+* 無償デモンストレーションまたは Virtual Migration Assessment を通じて始め方を学びます。
 
-Click the link https://www.redhat.com/en/resources/15-reasons-adopt-openshift-virtualization-ebook[here^] or scan the QR code below to learn more:
+詳細は https://www.redhat.com/en/resources/15-reasons-adopt-openshift-virtualization-ebook[こちら^] のリンクをクリックするか、以下の QR コードをスキャンしてください:
 
 image::2025_spring/conclusion/01_Ebook.png[link=self, window=blank, width=50%]
 
 === Red Hat Learning Services: DO317 Managing Virtual Machines with Red Hat OpenShift Virtualization
 
-* Skills required to create, access, and manage VMs on OpenShift clusters.
-* Skills required to control usage and access of cpu, memory, storage, and networking resources from VMs using the same Kubernetes features that would also control usage and access to these resources for containers.
-* Sample architectures to manage High Availability (HA) of VMs using standard Kubernetes features and extensions from OpenShift Virtualization.
-* Strategies to connect VMs on OpenShift to data center services outside of their OpenShift cluster, such as storage and databases.
-* Strategies to migrate VMs from compatible hypervisors to OpenShift Virtualization by using the Migration Toolkit for Virtualization operator.
+* OpenShift クラスター上で VM を作成、アクセス、管理するために必要なスキル。
+* コンテナと同様に Kubernetes 機能で CPU、メモリ、ストレージ、ネットワークリソースの VM からの使用とアクセスを制御するために必要なスキル。
+* OpenShift Virtualization の拡張と標準 Kubernetes 機能を使用して VM の高可用性（HA）を管理するサンプルアーキテクチャ。
+* OpenShift クラスター外のデータセンターサービス（ストレージやデータベースなど）に OpenShift 上の VM を接続する戦略。
+* Migration Toolkit for Virtualization オペレーターを使用して、互換性のあるハイパーバイザーから OpenShift Virtualization へ VM を移行する戦略。
 
-Click the link https://www.redhat.com/en/services/training/managing-virtual-machines-red-hat-openshift-virtualization-exam[here^] or scan the QR code below to learn more:
+詳細は https://www.redhat.com/en/services/training/managing-virtual-machines-red-hat-openshift-virtualization-exam[こちら^] のリンクをクリックするか、以下の QR コードをスキャンしてください:
 
 
 image::2025_spring/conclusion/02_DO317_Training.png[link=self, window=blank, width=50%]
 
 === Virtualization Migration Assessment
 
-* A two-week onsite interactive workshop and follow-up report. 
-* Experienced Red Hat architects run a short series of onsite workshops to help develop your migration journey.
-* They provide an extensive review of your virtualization environment and it's current integrations including: networking, storage, security, backup, and disaster recovery.
-* You recieve a VMA report with a tailored proposal for your complete migration incluing high-level recommendations and design considerations.
-* This can help with understanding of where you're going, how you'll get there, how long it will take, and how much it will cost.
+* 2 週間のオンサイト対話型ワークショップとフォローアップレポート。
+* 経験豊富な Red Hat アーキテクトが、移行の旅路を策定するための短い一連のオンサイトワークショップを実施します。
+* ネットワーキング、ストレージ、セキュリティ、バックアップ、災害復旧を含む、仮想化環境とその現在の統合の包括的なレビューを提供します。
+* 高レベルの推奨事項と設計上の考慮事項を含む、完全な移行のためのカスタマイズされた提案を記載した VMA レポートを受け取ります。
+* 目指す方向、到達方法、所要時間、コストの理解に役立ちます。
 
-Click the link https://www.redhat.com/en/resources/virtualization-migration-assessment-datasheet[here^] or scan the QR code below to learn more:
+詳細は https://www.redhat.com/en/resources/virtualization-migration-assessment-datasheet[こちら^] のリンクをクリックするか、以下の QR コードをスキャンしてください:
 
 image::2025_spring/conclusion/03_VMA_QR.png[link=self, window=blank, width=50%]
-
