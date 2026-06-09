@@ -40,6 +40,6 @@
 ** xref:module-09-networking.adoc#attach[仮想マシンをネットワークに接続]
 // ** xref:module-09-networking.adoc#udn[User Defined Networks]
 
-* xref:conclusion.adoc[まとめ]
-** xref:conclusion.adoc#key_takeaways[重要なポイント]
-** xref:conclusion.adoc#additional_info[追加情報]
+// * xref:conclusion.adoc[まとめ]
+// ** xref:conclusion.adoc#key_takeaways[重要なポイント]
+// ** xref:conclusion.adoc#additional_info[追加情報]
