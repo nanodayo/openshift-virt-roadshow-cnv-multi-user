@@ -18,11 +18,11 @@ OpenShift Virtualization により、仮想マシンを最新の Kubernetes ベ�
 
 == ロードショーで扱うコンテンツ
 
-以下の *7* つの主要セクションを扱います。
+以下の *7* つの主要セクションを扱います。*※対象外にしたものがあります*
 
 * _仮想マシン管理_: 仮想マシンの作成やリソース割り当ての変更など、仮想マシン管理の基礎を確認します。
 
-* _既存仮想マシンの移行_: Migration Toolkit for Virtualization（MTV）を使用し、既存の VMware vSphere 環境から OpenShift Virtualization へ仮想マシンを移行します。
+* _既存仮想マシンの移行_: ※対象外。Migration Toolkit for Virtualization（MTV）を使用し、既存の VMware vSphere 環境から OpenShift Virtualization へ仮想マシンを移行します。
 
 * _ストレージ管理_: OpenShift Virtualization では、多くの管理者に馴染みのあるストレージのパラダイムが変わります。本セクションでは、仮想マシンのストレージ管理に関連する多くの操作を体験します。
 
@@ -30,9 +30,9 @@ OpenShift Virtualization により、仮想マシンを最新の Kubernetes ベ�
 
 * _テンプレートと InstanceType の管理_: 仮想マシンのデプロイを効率化するため、管理者はテンプレートの作成や InstanceType の定義を行うことがよくあります。本セクションではこれらのプロセスに焦点を当てます。
 
-* _仮想マシンとアプリケーションの操作_: 本セクションでは、インポートした仮想マシンに対して Day-2 操作を行い、Service と Route を通じて VM 上のアプリケーションを公開します。
+* _仮想マシンとアプリケーションの操作_: ※対象外。本セクションでは、インポートした仮想マシンに対して Day-2 操作を行い、Service と Route を通じて VM 上のアプリケーションを公開します。
 
-* _ネットワーク管理_: デフォルトでは VM は OpenShift 上の Pod ネットワークに接続されます。本セクションでは、新しい L2 ネットワークマッピングの作成や、直接ネットワーク接続のための User Defined Networks（UDN）の利用を体験します。
+* _ネットワーク管理_: デフォルトでは VM は OpenShift 上の Pod ネットワークに接続されます。本セクションでは、新しい L2 ネットワークマッピングの作成や、直接ネットワーク接続のための User Defined Networks（UDN）の利用を体験します。※UDNは対象外
 
 == OpenShift Virtualization とは
 
@@ -110,7 +110,7 @@ OpenShift クラスタコンソールは {openshift_console_url}[こちら^]か�
 
 === vCenter アクセス
 
-ラボの移行章では、https://{vcenter_console}[VMware vSphere^] 環境へのログインと確認を行います。
+ラボの既存仮想マシンの移行章では、https://{vcenter_console}[VMware vSphere^] 環境へのログインと確認を行います。※対象外
 
 アクセスには以下の認証情報を使用してください:
 
