@@ -19,6 +19,7 @@ NOTE: OpenShift 環境は、仮想マシンが接続する各コンピュート�
 *Kubernetes NMState Operator* は、NMState を使用して OpenShift Container Platform クラスターのノード全体で状態駆動型ネットワーク構成を実行するための Kubernetes API を提供します。Kubernetes NMState Operator は、クラスターノード上のさまざまなネットワークインターフェイスタイプ、DNS、ルーティングを構成する機能をユーザーに提供します。さらに、クラスターノード上のデーモンは、各ノードのネットワークインターフェイスの状態を定期的に API サーバーに報告します。
 
 . 左側メニューで *Networking* をクリックし、*NodeNetworkState* をクリックして現在の構成を確認します。
+*※Node network configuration に読み替えてください。また、表示も画像と異なります。*
 +
 image::2025_spring/module-09-networking/01_NodeNetworkState_List.png[link=self, window=blank, width=100%]
 
